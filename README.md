@@ -86,9 +86,11 @@ El proyecto sigue los principios de **Clean Architecture** y **MVVM**:
 ## Configuración
 
 ### Requisitos Previos
-- Android Studio Arctic Fox o superior
-- Kotlin 1.8+
+- Android Studio Flamingo o superior
+- Java JDK 17 o 20 (compatible con Gradle 8.5)
+- Kotlin 1.9.22
 - Android SDK 24+
+- Gradle 8.5 (incluido en el proyecto)
 
 ### Configuración de APIs
 

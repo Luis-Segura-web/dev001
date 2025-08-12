@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">IPTV Player</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_channels">Canales</string>
+    <string name="nav_movies">Películas</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_settings">Configuración</string>
+    
+    <!-- Login -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="login_server_url">URL del Servidor</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_port">Puerto</string>
+    <string name="login_button">Conectar</string>
+    <string name="login_error">Error de autenticación</string>
+    <string name="login_loading">Conectando...</string>
+    
+    <!-- Home -->
+    <string name="home_featured">Destacados</string>
+    <string name="home_recent_channels">Canales Recientes</string>
+    <string name="home_recent_movies">Películas Recientes</string>
+    <string name="home_recent_series">Series Recientes</string>
+    <string name="home_continue_watching">Continuar Viendo</string>
+    
+    <!-- Channels -->
+    <string name="channels_title">Canales en Vivo</string>
+    <string name="channels_all">Todos los Canales</string>
+    <string name="channels_search">Buscar canales...</string>
+    <string name="channels_no_epg">Sin información de programación</string>
+    <string name="channels_now_playing">Reproduciendo ahora</string>
+    
+    <!-- Movies -->
+    <string name="movies_title">Películas</string>
+    <string name="movies_all">Todas las Películas</string>
+    <string name="movies_search">Buscar películas...</string>
+    <string name="movies_year">Año: %s</string>
+    <string name="movies_duration">Duración: %s</string>
+    <string name="movies_rating">Calificación: %.1f</string>
+    
+    <!-- Series -->
+    <string name="series_title">Series de TV</string>
+    <string name="series_all">Todas las Series</string>
+    <string name="series_search">Buscar series...</string>
+    <string name="series_seasons">%d temporadas</string>
+    <string name="series_episodes">%d episodios</string>
+    <string name="series_season">Temporada %d</string>
+    <string name="series_episode">Episodio %d</string>
+    
+    <!-- Player -->
+    <string name="player_loading">Cargando...</string>
+    <string name="player_error">Error de reproducción</string>
+    <string name="player_play">Reproducir</string>
+    <string name="player_pause">Pausar</string>
+    <string name="player_stop">Detener</string>
+    <string name="player_fullscreen">Pantalla completa</string>
+    <string name="player_exit_fullscreen">Salir de pantalla completa</string>
+    <string name="player_volume">Volumen</string>
+    <string name="player_mute">Silenciar</string>
+    <string name="player_unmute">Activar sonido</string>
+    <string name="player_subtitles">Subtítulos</string>
+    <string name="player_audio_tracks">Pistas de audio</string>
+    <string name="player_quality">Calidad</string>
+    <string name="player_speed">Velocidad</string>
+    
+    <!-- EPG -->
+    <string name="epg_title">Guía de Programación</string>
+    <string name="epg_now">Ahora</string>
+    <string name="epg_next">Siguiente</string>
+    <string name="epg_today">Hoy</string>
+    <string name="epg_tomorrow">Mañana</string>
+    <string name="epg_no_data">Sin datos de programación</string>
+    
+    <!-- Favorites -->
+    <string name="favorites_title">Favoritos</string>
+    <string name="favorites_empty">No tienes favoritos</string>
+    <string name="favorites_add">Agregar a favoritos</string>
+    <string name="favorites_remove">Quitar de favoritos</string>
+    <string name="favorites_channels">Canales Favoritos</string>
+    <string name="favorites_movies">Películas Favoritas</string>
+    <string name="favorites_series">Series Favoritas</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Configuración</string>
+    <string name="settings_general">General</string>
+    <string name="settings_playback">Reproducción</string>
+    <string name="settings_parental">Control Parental</string>
+    <string name="settings_about">Acerca de</string>
+    
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_theme_system">Sistema</string>
+    
+    <string name="settings_quality">Calidad de video</string>
+    <string name="settings_quality_auto">Automática</string>
+    <string name="settings_quality_480p">480p</string>
+    <string name="settings_quality_720p">720p</string>
+    <string name="settings_quality_1080p">1080p</string>
+    <string name="settings_quality_4k">4K</string>
+    
+    <string name="settings_autoplay">Reproducción automática</string>
+    <string name="settings_subtitles">Mostrar subtítulos</string>
+    <string name="settings_subtitle_size">Tamaño de subtítulos</string>
+    
+    <string name="settings_parental_enable">Activar control parental</string>
+    <string name="settings_parental_pin">PIN de control parental</string>
+    <string name="settings_parental_categories">Categorías bloqueadas</string>
+    
+    <string name="settings_tmdb_api">API Key de TMDB</string>
+    <string name="settings_logout">Cerrar sesión</string>
+    
+    <!-- Search -->
+    <string name="search_hint">Buscar...</string>
+    <string name="search_no_results">Sin resultados</string>
+    <string name="search_results">Resultados de búsqueda</string>
+    
+    <!-- Categories -->
+    <string name="category_all">Todas</string>
+    <string name="category_news">Noticias</string>
+    <string name="category_sports">Deportes</string>
+    <string name="category_movies">Películas</string>
+    <string name="category_series">Series</string>
+    <string name="category_kids">Infantil</string>
+    <string name="category_music">Música</string>
+    <string name="category_documentary">Documentales</string>
+    
+    <!-- Common -->
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="loading">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_internet">Sin conexión a internet</string>
+    <string name="server_error">Error del servidor</string>
+    
+    <!-- Content Details -->
+    <string name="details_play">Reproducir</string>
+    <string name="details_trailer">Ver tráiler</string>
+    <string name="details_cast">Reparto</string>
+    <string name="details_director">Director</string>
+    <string name="details_genre">Género</string>
+    <string name="details_year">Año</string>
+    <string name="details_duration">Duración</string>
+    <string name="details_rating">Calificación</string>
+    <string name="details_description">Descripción</string>
+    
+    <!-- Watch History -->
+    <string name="history_title">Historial</string>
+    <string name="history_empty">Sin historial de reproducción</string>
+    <string name="history_clear">Limpiar historial</string>
+    <string name="history_continue">Continuar desde %s</string>
+    
+    <!-- Notifications -->
+    <string name="notification_playing">Reproduciendo</string>
+    <string name="notification_paused">Pausado</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Error de red</string>
+    <string name="error_server">Error del servidor</string>
+    <string name="error_authentication">Error de autenticación</string>
+    <string name="error_stream_not_found">Stream no encontrado</string>
+    <string name="error_playback">Error de reproducción</string>
+    <string name="error_unknown">Error desconocido</string>
+</resources>
